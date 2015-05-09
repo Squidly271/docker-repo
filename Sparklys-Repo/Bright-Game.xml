@@ -6,6 +6,7 @@
 <Description>Bright Game Panel is a free and open source game server control panel. "BGPanel" utilizes many standard technologies available on many shared hosting platforms which gives all communities the ability to remotely control their game servers.[b][br]IMPORTANT:- YOU MUST CHANGE THE HOST PORT BELOW TO AVOID CLASHING WITH STANDARD UNRAID WEBUI PORT[/b]</Description>
 <Registry>https://registry.hub.docker.com/u/sparklyballs/bright-game/</Registry>
 <Repository>sparklyballs/bright-game</Repository>
+<Category>Internet,Other</Category>
 <BindTime>true</BindTime>
 <Privileged>false</Privileged>
 <Networking>
